@@ -191,7 +191,7 @@ import {
         },
       ],
       image: worklist,
-      source_code_link: "https://worklist-a2904.web.app/",
+      source_code_link: "https://worklist.leavingshortly.com",
     },
     {
       name: "Leaving Shortly",
@@ -212,7 +212,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://leavingshortly.com/",
     },
     {
       name: "Sustainablr",
