@@ -33,6 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 import worklist from "./projects/worklist.png";
+import leavingshortly from "./projects/leavingshortly.png";
 import sustainblr from "./projects/sustainblr.jpg";
 
 import logo from './self/logo.png';
@@ -71,5 +72,6 @@ export {
   linkedin,
   profile,
   worklist,
-  sustainblr
+  sustainblr,
+  leavingshortly
 };
