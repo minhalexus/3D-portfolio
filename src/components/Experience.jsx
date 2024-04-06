@@ -119,7 +119,7 @@ const Experience = () => {
 						<div className="">Bachelor of Computer Science - SEP 2017 - APR 2022</div>
 						<br />
 						<div>
-							Integrated features from an acquired company (Nudge) into the Axonify's core platform.
+						Related Coursework: Object-Oriented Software Development, Algorithms & Data Structures, Computer Security & Privacy, Introduction to Artificial Intelligence, Introduction to Database Management, User Interfaces.
 						</div>
 					</div>
 
